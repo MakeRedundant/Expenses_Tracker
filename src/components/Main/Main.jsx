@@ -13,7 +13,7 @@ const Main = () => {
 
   return (
     <Card className={classes.root} >
-        <CardHeader title="Expense tracker" subheader="Keep track of yours priorities first!" />
+        <CardHeader title="Expense tracker 💸" subheader="Keep track of your earnings and spending!" />
         <CardContent>
             <Typography align='center' variant="h5">Total Balance ${balance}</Typography>
             <Typography variant='subtitle' style={{ lineHeight: '1.5em', marginTop: '20px' }} >
