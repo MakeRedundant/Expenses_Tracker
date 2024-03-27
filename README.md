@@ -49,23 +49,23 @@ This is the Lighthouse Google report showcasing Performance 🚀, Accessibility 
 
 | Technology                | Description                               | Link                                                    |
 |---------------------------|-------------------------------------------|---------------------------------------------------------|
-| Github licence            | License badge                             | ![GitHub License](http://img.shields.io/badge/license-MIT-blue.svg) |
-| JavaScript Badge          | JavaScript badge                          | ![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow.svg) |
-| Material-UI Core Version  | Version of Material-UI Core               | ![Material-UI Core Version](https://img.shields.io/badge/Material--UI%20Core-4.12.3-blue.svg) |
-| Material-UI Icons Version | Version of Material-UI Icons              | ![Material-UI Icons Version](https://img.shields.io/badge/Material--UI%20Icons-4.11.2-red.svg) |
-| Material-UI Lab Version   | Version of Material-UI Lab                | ![Material-UI Lab Version](https://img.shields.io/badge/Material--UI%20Lab-4.0.0--alpha.60-green.svg) |
-| Jest-Dom Version          | Version of Jest-Dom                       | ![Jest-Dom Version](https://img.shields.io/badge/Jest--Dom-5.16.2-yellow.svg) |
-| React Testing Library Version | Version of React Testing Library       | ![React Testing Library Version](https://img.shields.io/badge/React%20Testing%20Library-12.1.3-blue.svg) |
-| User Event Version        | Version of User Event                     | ![User Event Version](https://img.shields.io/badge/User%20Event-13.5.0-red.svg) |
-| Chart.js Version          | Version of Chart.js                       | ![Chart.js Version](https://img.shields.io/badge/Chart.js-3.7.1-green.svg) |
-| React Version             | Version of React                          | ![React Version](https://img.shields.io/badge/React-16.12.0-blue.svg) |
-| React Chartjs 2 Version  | Version of React Chartjs 2                | ![React Chartjs 2 Version](https://img.shields.io/badge/React%20Chartjs%202-4.0.1-red.svg) |
-| React DOM Version         | Version of React DOM                      | ![React DOM Version](https://img.shields.io/badge/React%20DOM-16.12.0-blue.svg) |
-| React Scripts Version     | Version of React Scripts                  | ![React Scripts Version](https://img.shields.io/badge/React%20Scripts-5.0.0-green.svg) |
-| UUID Version              | Version of UUID                           | ![UUID Version](https://img.shields.io/badge/UUID-8.3.2-yellow.svg) |
-| Web Vitals Version        | Version of Web Vitals                     | ![Web Vitals Version](https://img.shields.io/badge/Web%20Vitals-2.1.4-blue.svg) |
-| Local Storage             | Local Storage badge                       | ![Local Storage](https://img.shields.io/badge/Local%20Storage-orange.svg) |
-| Netlify Status            | Netlify status badge                      | [![Netlify Status](https://api.netlify.com/api/v1/badges/78489fbf-e348-4cf7-92ba-cee575f7474d/deploy-status)](https://app.netlify.com/sites/expenses-incomes-tracker/deploys) |
+| Github licence            | License badge                             | [GitHub License](https://github.com/) |
+| JavaScript Badge          | JavaScript badge                          | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| Material-UI Core Version  | Version of Material-UI Core               | [Material-UI](https://material-ui.com/) |
+| Material-UI Icons Version | Version of Material-UI Icons              | [Material-UI Icons](https://material-ui.com/components/material-icons/) |
+| Material-UI Lab Version   | Version of Material-UI Lab                | [Material-UI Lab](https://material-ui.com/components/lab/) |
+| Jest-Dom Version          | Version of Jest-Dom                       | [Jest-Dom](https://testing-library.com/docs/ecosystem-jest-dom/) |
+| React Testing Library Version | Version of React Testing Library       | [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) |
+| User Event Version        | Version of User Event                     | [User Event](https://developer.mozilla.org/en-US/docs/Web/API/Document/createEvent) |
+| Chart.js Version          | Version of Chart.js                       | [Chart.js](https://www.chartjs.org/) |
+| React Version             | Version of React                          | [React](https://reactjs.org/) |
+| React Chartjs 2 Version  | Version of React Chartjs 2                | [React Chartjs 2](https://www.chartjs.org/docs/latest/getting-started/installation.html) |
+| React DOM Version         | Version of React DOM                      | [React DOM](https://reactjs.org/docs/react-dom.html) |
+| React Scripts Version     | Version of React Scripts                  | [React Scripts](https://create-react-app.dev/docs/getting-started) |
+| UUID Version              | Version of UUID                           | [UUID](https://www.npmjs.com/package/uuid) |
+| Web Vitals Version        | Version of Web Vitals                     | [Web Vitals](https://web.dev/vitals/) |
+| Local Storage             | Local Storage badge                       | [Local Storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) |
+| Netlify Status            | Netlify status badge                      | [Netlify](https://www.netlify.com/) |
 
     
 ## 🖥️ Installation 
